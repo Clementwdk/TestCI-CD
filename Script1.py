@@ -1,4 +1,4 @@
-#rite a program to ask the user  their baggage w
+#rite a program to ask the user  their baggage 
 totalAllowance=60
 totalBaggage=0
 while totalBaggage<totalAllowance:
