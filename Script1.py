@@ -1,4 +1,4 @@
-#Write a program to ask the user for their baggage weight
+#Write a program to ask the user for their baggage weig
 totalAllowance=60
 totalBaggage=0
 while totalBaggage<totalAllowance:
