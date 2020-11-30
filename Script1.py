@@ -1,5 +1,4 @@
 #Write a program to ask the user for their baggage weight
-#and notify them if it exceeds the 15kg allowance
 totalAllowance=60
 totalBaggage=0
 while totalBaggage<totalAllowance:
