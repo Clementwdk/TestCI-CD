@@ -1,5 +1,5 @@
 #write a program to ask the user  their baggages 
-totalAllowance=60
+totalAllowance=65
 totalBaggage=0
 while totalBaggage<totalAllowance:
     weight=int(input('Enter baggage weight: '))
